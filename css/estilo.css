@@ -108,6 +108,7 @@ table th img{
 table {
     width: 100%;
  }
+
  th, td {
     width: 25%;
     text-align: center;
@@ -168,3 +169,5 @@ si este footer con position absolut lo uso para las paginas inicio, contacto y t
     bottom: 0;
     width: 100%;
 }*/
+
+/*# sourceMappingURL=estilo.css.map */
